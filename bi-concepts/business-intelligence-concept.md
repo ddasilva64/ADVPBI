@@ -2,7 +2,7 @@
 
 **Business Intelligence**: Business strategy that seeks to increase the performance or competitiveness of the organization, based on the analysis and projection of historical data.
 
-Historical data: Daily operations or transactions, which can be stored in Data Marts (departmental), Data Warehouse (corporate), or in structured files.&#x20;
+**Historical data**: Daily operations or transactions, which can be stored in Data Marts (departmental), Data Warehouses (corporate), or in structured files.
 
 Business Intelligence technology: Business need that seeks to make corporations more competitive and intelligent, based on stored information.&#x20;
 
