@@ -3,6 +3,7 @@
 * [Abstract](README.md)
 * [BI concepts](bi-concepts/README.md)
   * [Business Intelligence concept](bi-concepts/business-intelligence-concept.md)
+  * [BI environment components](bi-concepts/bi-environment-components.md)
 * [ETL concepts](etl-concepts.md)
 * [Reports publication](reports-publication.md)
 * [Data sources](data-sources.md)
