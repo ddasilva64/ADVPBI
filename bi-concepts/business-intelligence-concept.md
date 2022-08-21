@@ -1,25 +1,19 @@
 # Business Intelligence concept
 
-Business Intelligence: Business strategy that seeks to increase the performance or competitiveness of the company, based on the analysis and projection of historical data.&#x20;
+**Business Intelligence**: Business strategy that seeks to increase the performance or competitiveness of the organization, based on the analysis and projection of historical data.
 
-Historical data: Daily operations or transactions, which can be stored in Data Marts (departmental), Data Warehouse (corporate), or in structured files.&#x20;
+**Historical data**: Daily operations or transactions, which can be stored in Data Marts (departmental), Data Warehouses (corporate), or in structured files.
 
-Business Intelligence technology: Business need that seeks to make corporations more competitive and intelligent, based on stored information.&#x20;
+**Business Intelligence Technology**: Business need that seeks to make corporations more competitive and intelligent, based on stored information.
 
-Justification of the investment in Bl:&#x20;
+**Justification for investment in BI**:
 
-• Visibility of what is happening&#x20;
-
-• Centralized reporting/reporting&#x20;
-
-• Analysis of trends and “prediction” of the future • Effective product decision making&#x20;
-
-• Centralizes scattered data&#x20;
-
-• "Validates" transactional systems&#x20;
-
-• Real vision of the context (business in the business segment)&#x20;
-
-• Validation of the company's position (with respect to competitors)&#x20;
-
-• Market trends
+* Visibility of _**what is happening**_
+* Creation of _**centralized reports**_
+* Analysis of _**trends and prospective**_ (prediction of the future)
+* Making _**effective**_ product _**decisions**_
+* _**Centralization**_ of scattered data
+* _**Validation of transactional systems**_
+* Real _**vision of the context**_ (business in the business segment)
+* _**Validation of the position of the campaign**_ (with respect to competitors)
+* _**Analysis of market trends**_

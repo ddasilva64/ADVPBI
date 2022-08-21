@@ -4,7 +4,7 @@
 * [BI concepts](bi-concepts/README.md)
   * [Business Intelligence concept](bi-concepts/business-intelligence-concept.md)
   * [BI environment components](bi-concepts/bi-environment-components.md)
-  * [ETL tools (Extract-Transform-Load)](bi-concepts/etl-tools-extract-transform-load.md)
+  * [BI concepts](bi-concepts/bi-concepts.md)
 * [ETL concepts](etl-concepts.md)
 * [Reports publication](reports-publication.md)
 * [Data sources](data-sources.md)
