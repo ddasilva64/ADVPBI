@@ -1,6 +1,6 @@
 # Business Intelligence concept
 
-Business Intelligence: Business strategy that seeks to increase the performance or competitiveness of the company, based on the analysis and projection of historical data.&#x20;
+**Business Intelligence**: Business strategy that seeks to increase the performance or competitiveness of the organization, based on the analysis and projection of historical data.
 
 Historical data: Daily operations or transactions, which can be stored in Data Marts (departmental), Data Warehouse (corporate), or in structured files.&#x20;
 
