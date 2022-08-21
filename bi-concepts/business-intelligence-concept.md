@@ -6,20 +6,14 @@
 
 **Business Intelligence Technology**: Business need that seeks to make corporations more competitive and intelligent, based on stored information.
 
-Justification of the investment in Bl:&#x20;
+**Justification for investment in BI**:&#x20;
 
-• Visibility of what is happening&#x20;
-
-• Centralized reporting/reporting&#x20;
-
-• Analysis of trends and “prediction” of the future • Effective product decision making&#x20;
-
-• Centralizes scattered data&#x20;
-
-• "Validates" transactional systems&#x20;
-
-• Real vision of the context (business in the business segment)&#x20;
-
-• Validation of the company's position (with respect to competitors)&#x20;
-
-• Market trends
+* Visibility of **what is happening**
+* Creation of **centralized reports**
+* Analysis of **trends and prospective** (prediction of the future)&#x20;
+* Making **effective** product decisions&#x20;
+* **Centralization** of scattered data&#x20;
+* **Validation of transactional systems**
+* Real **vision of the context** (business in the business segment)&#x20;
+* **Validation of the position of the campaign** (with respect to competitors)&#x20;
+* **Analysis of market trends**
