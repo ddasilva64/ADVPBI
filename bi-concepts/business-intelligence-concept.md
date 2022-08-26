@@ -4,7 +4,7 @@
 
 **Historical data**: Daily operations or transactions, which can be stored in Data Marts (departmental), Data Warehouses (corporate), or in structured files.
 
-**Business Intelligence Technology**: Business need that seeks to make corporations more competitive and intelligent, based on stored information.
+**Business Intelligence technology**: Business need that seeks to make corporations more competitive and intelligent, based on stored information.
 
 **Justification for investment in BI**:
 
@@ -17,3 +17,5 @@
 * Real _**vision of the context**_ (business in the business segment)
 * _**Validation of the position of the campaign**_ (with respect to competitors)
 * _**Analysis of market trends**_
+
+_****_
