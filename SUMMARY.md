@@ -5,6 +5,7 @@
   * [Business Intelligence concept](bi-concepts/business-intelligence-concept.md)
   * [BI environment components](bi-concepts/bi-environment-components.md)
   * [BI concepts](bi-concepts/bi-concepts.md)
+  * [Position Power BI against competitors](bi-concepts/position-power-bi-against-competitors.md)
 * [ETL concepts](etl-concepts.md)
 * [Reports publication](reports-publication.md)
 * [Data sources](data-sources.md)
